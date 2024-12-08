@@ -5,16 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13e38593-9597-432d-b538-43ad3e382ef9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/control/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/control/ImportCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/io/DatabaseGameWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/io/GameReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/io/GameWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/io/ZipFileGameReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/ui/ImportDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/io/CsvGameDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/io/CsvGameDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/io/GameDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/io/GameDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/model/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata4/arquitecture/model/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "maikos08"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/maikos08/kata4.git",
+    "accountId": "05ef40f6-957b-4d1c-a384-f5cc09241185"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -26,11 +58,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/User/Universidad/3º/IS2/Practicas/kata4/kata4/src/main/java/software/ulpgc/kata4/app/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="software.ulpgc.kata4.arquitecture.io" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
